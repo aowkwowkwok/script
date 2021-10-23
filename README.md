@@ -1,8 +1,9 @@
 # FITUR SCRIPT
-• OpenSSH
-• OpenVPN
-• Stunnel4
-• Dropbear
+OpenSSH
+#
+OpenVPN
+Stunnel4
+Dropbear
 Squid Proxy
 Badvpn
 Nginx
