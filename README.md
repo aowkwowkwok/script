@@ -9,7 +9,7 @@ apt-get update && apt-get upgrade -y && update-grub && sleep 2 && reboot
 ```
 Step 2 : <br>
 ```shell
-CLOSED
+Hub Admin ⬇️
 ```
 # List Service
 - OpenSSH <br>
