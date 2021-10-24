@@ -1,4 +1,4 @@
-# SSH SEDANG NETWORK 
+# WHY STORE VPN
 Kami menjual akun/ssh vpn serta menyewakan juga script vps.
 
 # Script
@@ -32,19 +32,23 @@ CLOSED
 - V2RAY Vless None TLS <br>
 - Trojan <br>
 - Backup & Restore <br>
+- OHP Dropbear <br>
+- OHP OpenSSH <br>
+- OHP OpenVPN <br>
+- SSH Websocket SSL <br>
+- SSH Websocket HTTP <br>
+- SSH Websocket OpenVPN <br>
+
+# Support Multi Port 443
+- Stunnel 443 <br>
+- Dropbear 443 <br>
+- OpenSSH 443 <br>
+- SSH Websocket SSL 443 <br>
 
 # OS Supported
 - Debian 9 & Debian 10 64-bit <br>
 - Ubuntu 18 & Ubuntu 20 64-bit <br>
 
 # Contact
-- Whatsapp : wa.me/6282311190332 <br>
-- Telegram : t.me/sshsedang4 <br>
-
-# Payment
-#<details>
-#<summary>Click for Show Payment Qris</summary>
-#<p align="center">
-![WhatsApp Image 2021-09-14 at 19 51 46](https://user-images.githubusercontent.com/89133643/133570031-e9c90130-06d6-4e35-b783-292681b6fad9.jpeg)
-</p>
-</details>
+- Whatsapp : wa.me/62859102641946 <br>
+- Telegram : t.me/whytzy96 <br>
